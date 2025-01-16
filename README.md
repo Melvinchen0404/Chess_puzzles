@@ -8,6 +8,4 @@ Restricted range of values for "Themes": "advancedPawn", "discoveredAttack", "en
 <br>
 Moves are in UCI format <br>
 <br>
-All player moves of the solution are "only moves". Playing any other move would considerably worsen the player position. An exception is made for mates in one: there can be several. Any move that checkmates should win the puzzle.
-<br>
-FEN is the position before the opponent makes their move.
+All player moves of the solution are "only moves". Playing any other move would considerably worsen the player position. An exception is made for mates in one: there can be several. Any move that checkmates should win the puzzle. FEN is the position before the opponent makes their move.

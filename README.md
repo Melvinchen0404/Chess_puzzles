@@ -1,5 +1,5 @@
 # Chess_puzzles
-Lichess database for chess puzzle databases: https://database.lichess.org/#puzzles
+Lichess database for chess puzzles: https://database.lichess.org/#puzzles
 
 Database fields: "PuzzleId", "FEN", "Moves", "Rating", "RatingDeviation", "Popularity", "NbPlays", "Themes", "GameUrl", "OpeningTags" <br>
 Range of values for "Rating": 399.0 - 3153.0 <br>
